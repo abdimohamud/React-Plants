@@ -12,7 +12,7 @@ export default class PlantList extends Component {
   constructor(){
     super();
     this.state = {
-      plants : []
+      plants : [],
     }
   }
 
